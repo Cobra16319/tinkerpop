@@ -19,10 +19,8 @@ under the License.
 import calendar
 import datetime
 import json
-import time
 import uuid
 import math
-import base64
 from collections import OrderedDict
 from decimal import *
 import logging
